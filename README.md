@@ -1,27 +1,3 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e652lhyxwd4uqblelmfmi7zhm4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31e652lhyxwd4uqblelmfmi7zhm4&redirect=true)
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noahwaseaten&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noahwaseaten&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  ![](https://dcbadge.limes.pink/api/shield/980888932520722523)
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/noahwaseaten/noahwaseaten/output/snake.svg" alt="Snake animation" />
-
-###
+[![trophy](https://github-profile-trophy.vercel.app/?noahwaseaten=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
