@@ -1,3 +1,3 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e652lhyxwd4uqblelmfmi7zhm4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31e652lhyxwd4uqblelmfmi7zhm4&redirect=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?noahwaseaten=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
