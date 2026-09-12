@@ -9,7 +9,7 @@ also into music and design, and permanently stuck on the question of how somethi
 
 ---
 
-### things i've made
+### things i've made:
 
 **Lion Central** &nbsp;<kbd>proprietary</kbd><br>
 internal hub and LED arch editor for [Lion Heart](https://ultra.lionheart.bg/), a 600-person triathlon. comes with a volunteer desk of event-specific tooling, like registration checks
@@ -24,11 +24,11 @@ discord-linked item marketplace for a minecraft server. basically amazon for in-
 the community site for that same server
 
 <details>
-<summary>what i'm poking at right now:</summary>
+<summary>things i'm poking at right now:</summary>
 
 <br>
 
-nothing public yet. check back.
+nothing public yet, check back
 
 </details>
 
@@ -36,7 +36,6 @@ nothing public yet. check back.
 
 <div align="center">
 
-open to interesting problems &middot;
-<a href="https://noahwaseaten.com">noahwaseaten.com</a>
+open to interesting problems - <a href="https://noahwaseaten.com">noahwaseaten.com</a>
 
 </div>
