@@ -1,8 +1,9 @@
 <div align="center">
 
-# kamen / noahwaseaten
+# kamen / noahwaseaten<br><sub><sup>sofia-based</sup></sub>
 
-sofia-based. i make things on the internet, usually things i want to exist and couldn't find<br>
+
+i make things on the internet, usually things i want to exist and couldn't find<br>
 also into music and design, and permanently stuck on the question of how something could be better
 
 </div>
@@ -12,7 +13,7 @@ also into music and design, and permanently stuck on the question of how somethi
 ### things i've made:
 
 **Lion Central** &nbsp;<kbd>proprietary</kbd><br>
-internal hub and LED arch editor for [Lion Heart](https://ultra.lionheart.bg/), a 600-person triathlon. comes with a volunteer desk of event-specific tooling, like registration checks
+internal hub and LED arch editor for [Lion Heart](https://ultra.lionheart.bg/), a 600-person triathlon. it's like a suite of event-specific tools for volunteers
 
 **Pressify** &nbsp;<kbd>proprietary</kbd><br>
 a very pretty live push-up counter with a big screen and a leaderboard. also built for Lion Heart
