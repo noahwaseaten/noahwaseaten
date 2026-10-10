@@ -18,26 +18,18 @@ internal hub and LED arch editor for [Lion Heart](https://ultra.lionheart.bg/), 
 **Pressify** &nbsp;<kbd>proprietary</kbd><br>
 a very pretty live push-up counter with a big screen and a leaderboard. also built for Lion Heart
 
-**Colory** &nbsp;<kbd>proprietary</kbd><br>
-a pocket studio for hair stylists and color analysts. makeup and hair color try-on, a guided color season reading, and a 3d head for face shapes. runs on-device, in bulgarian and english
-
 **[Waybill](https://waybill.thechronicle.me/)**<br>
 discord-linked item marketplace for a minecraft server. basically amazon for in-game trading
 
 **[lionmadness.net](https://lionmadness.net/)**<br>
-the community site for that same server. plus everything behind it:
-- **Atlas** &nbsp;<kbd>proprietary</kbd> - the plugin spine. bedrock menu fixes, chat tweaks, jobs overtime and the discord chat bridge as modules you can reload without a restart
-- **Rebis** &nbsp;<kbd>proprietary</kbd> - discord bot. utilities, ai image analysis, minecraft tools and moderation, in servers or straight from a dm
-- **The LM Chronicle** &nbsp;<kbd>proprietary</kbd> - newsroom tool that turns discord logs, notes and screenshots into ready-to-post drafts
-- **Opis** &nbsp;<kbd>proprietary</kbd> - tiny phone app that opens to today's slot in the team schedule
+the community site for that same server
 
 <details>
 <summary>things i'm poking at right now:</summary>
 
 <br>
 
-**[Aether](https://github.com/noahwaseaten/Aether)**<br>
-a monster hunter: world overlay. monster parts and ailments, party damage, buffs, and party sync so everyone sees the host's numbers. started as a SmartHunter fork and kept growing
+nothing public yet, check back
 
 </details>
 
