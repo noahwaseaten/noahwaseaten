@@ -1,7 +1,8 @@
 <div align="center">
 
-<a href="https://discord.com/users/980888932520722523"><img src="https://lanyard.cnrad.dev/api/980888932520722523?theme=dark&bg=15171b&borderRadius=12px&hideActivity=whenNotUsed" alt="kamen / noahwaseaten"/></a><br>
-<img src="bg.png" alt="bulgaria" width="18"/>&nbsp;<sub>sofia-based</sub>
+<a href="https://discord.com/users/980888932520722523"><img src="https://lanyard.cnrad.dev/api/980888932520722523?theme=dark&bg=15171b&borderRadius=12px&hideActivity=whenNotUsed" alt="kamen / noahwaseaten"/></a>
+
+<img src="sofia.png" alt="sofia-based" width="124"/>
 
 <br>
 
@@ -17,26 +18,15 @@ music, design, and one question i can't put down: how could this be better?
 
 ---
 
+<div align="center">
+
 ### things i've made
 
-**Lion Central** &nbsp;<kbd>proprietary</kbd><br>
-an internal hub and LED arch editor for [Lion Heart](https://ultra.lionheart.bg/), a 600-person triathlon.
+<a href="https://ultra.lionheart.bg/"><img src="lioncentral.png" alt="Lion Central: internal hub and LED arch editor for Lion Heart" width="330"/></a>&nbsp;
+<a href="https://ultra.lionheart.bg/"><img src="pushy.png" alt="Pushy: live push-up counter with a big screen and a leaderboard" width="330"/></a>
+<a href="https://github.com/noahwaseaten/Aether"><img src="aether.png" alt="Aether: Monster Hunter: World overlay" width="330"/></a>&nbsp;
+<a href="https://lionmadness.net/"><img src="lionmadness.png" alt="Lion Madness: minecraft server, with the Atlas plugin and Rebis discord bot" width="330"/></a>
 
-<img src="lioncentral.png" alt="Lion Central" width="420"/>
+</div>
 
-**Pushy** &nbsp;<kbd>proprietary</kbd><br>
-a very pretty live push-up counter with a big screen and a leaderboard. also built for Lion Heart.
-
-<img src="pushy.png" alt="Pushy" width="420"/>
-
-**[Aether](https://github.com/noahwaseaten/Aether)**<br>
-a decently pretty monster hunter: world overlay. started as a SmartHunter fork and grew into a lot more.
-
-<a href="https://github.com/noahwaseaten/Aether"><img src="aether.png" alt="Aether" width="420"/></a>
-
-**[lionmadness.net](https://lionmadness.net/)**<br>
-the community site for a minecraft server, and some other things:
-- **Atlas** &nbsp;<kbd>proprietary</kbd> · our main plugin, built on dynamic modules so hotfixes and new systems don't need restarts
-- **Rebis** &nbsp;<kbd>proprietary</kbd> · custom discord.js bot with a bunch of utilities and systems
-
-<a href="https://lionmadness.net/"><img src="lionmadness.png" alt="Lion Madness" width="420"/></a>
+---
