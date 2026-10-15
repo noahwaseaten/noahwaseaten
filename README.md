@@ -22,10 +22,7 @@ music, design, and one question i can't put down: how could this be better?
 
 ### things i've made
 
-<a href="https://ultra.lionheart.bg/"><img src="cards/lioncentral.png" alt="Lion Central: internal hub and LED arch editor for Lion Heart" width="330"/></a>&nbsp;
-<a href="https://ultra.lionheart.bg/"><img src="cards/pushy.png" alt="Pushy: live push-up counter with a big screen and a leaderboard" width="330"/></a>
-<a href="https://github.com/noahwaseaten/Aether"><img src="cards/aether.png" alt="Aether: Monster Hunter: World overlay" width="330"/></a>&nbsp;
-<a href="https://lionmadness.net/"><img src="cards/lionmadness.png" alt="Lion Madness: minecraft server, with the Atlas plugin and Rebis discord bot" width="330"/></a>
+<a href="https://ultra.lionheart.bg/"><img src="cards/lioncentral-v2.png" alt="Lion Central: internal hub and LED arch editor for Lion Heart" width="343"/></a><a href="https://ultra.lionheart.bg/"><img src="cards/pushy-v2.png" alt="Pushy: live push-up counter for Lion Heart" width="343"/></a><a href="https://github.com/noahwaseaten/Aether"><img src="cards/aether-v2.png" alt="Aether: Monster Hunter: World overlay" width="343"/></a><a href="https://lionmadness.net/"><img src="cards/lionmadness-v2.png" alt="Lion Madness: vanilla+ minecraft server and community site" width="343"/></a>
 
 </div>
 
