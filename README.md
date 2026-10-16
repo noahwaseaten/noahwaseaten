@@ -11,7 +11,7 @@ into music, design, and always stuck on the question of how something could be b
 
 <br>
 
-<img src="https://count.getloli.com/@noahwaseaten?theme=moebooru&padding=1" alt="visitors"/><br>
+<img src="https://count.getloli.com/@noahwaseaten?theme=moebooru&padding=1&darkmode=0" alt="visitors"/><br>
 <sub>people who ended up here</sub>
 
 </div>
@@ -22,7 +22,7 @@ into music, design, and always stuck on the question of how something could be b
 
 ### things i've made
 
-<a href="https://ultra.lionheart.bg/"><img src="cards/lioncentral-v2.png" alt="Lion Central: internal hub and LED arch editor for Lion Heart" width="343"/></a><a href="https://ultra.lionheart.bg/"><img src="cards/pushy-v2.png" alt="Pushy: live push-up counter for Lion Heart" width="343"/></a><a href="https://github.com/noahwaseaten/Aether"><img src="cards/aether-v2.png" alt="Aether: Monster Hunter: World overlay" width="343"/></a><a href="https://lionmadness.net/"><img src="cards/lionmadness-v2.png" alt="Lion Madness: vanilla+ minecraft server and community site" width="343"/></a>
+<a href="https://ultra.lionheart.bg/"><img src="cards/lioncentral.svg" alt="Lion Central: internal hub and LED arch editor for Lion Heart" width="343"/></a><a href="https://ultra.lionheart.bg/"><img src="cards/pushy.svg" alt="Pushy: live push-up counter for Lion Heart" width="343"/></a><a href="https://github.com/noahwaseaten/Aether"><img src="cards/aether.svg" alt="Aether: Monster Hunter: World overlay" width="343"/></a><a href="https://lionmadness.net/"><img src="cards/lionmadness.svg" alt="Lion Madness: vanilla+ minecraft server and community site" width="343"/></a>
 
 </div>
 
