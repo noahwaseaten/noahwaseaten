@@ -11,7 +11,7 @@ music, design, and one question i can't put down: how could this be better?
 
 <br>
 
-<img src="https://count.kjchmc.cn/get/@noahwaseaten?theme=moebooru" alt="visitors"/><br>
+<img src="https://count.getloli.com/@noahwaseaten?theme=moebooru&padding=1" alt="visitors"/><br>
 <sub>people who ended up here</sub>
 
 </div>
