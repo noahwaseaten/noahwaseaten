@@ -7,7 +7,7 @@
 <br>
 
 i build the things i go looking for and can't find.<br>
-music, design, and one question i can't put down: how could this be better?
+into music, design, and always stuck on the question of how something could be better
 
 <br>
 
